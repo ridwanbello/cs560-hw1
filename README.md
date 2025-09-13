@@ -1,4 +1,4 @@
-## CS 650 Homework 1: Publishers and Turtlesim
+## CS 560 Homework 1: Publishers and Turtlesim
 
 The repository contains 4 programs that generate the following shapes using the ROS2 turtlesim program:
 
