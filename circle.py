@@ -18,7 +18,7 @@ class TurtleController(Node):
         return msg
 
     def get_twist_msg(self):
-        # Linear speed of 1.0 and angular speed of 0.5 with 0.5 interval for 25 seconds
+        # Linear speed of 1.0 and angular speed of 0.5 at 0.5 interval for 25 seconds
         msg = self.create_twist(1.0, 0.5)
         return msg
     
